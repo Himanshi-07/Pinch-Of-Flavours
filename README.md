@@ -1,2 +1,2 @@
 # Pinch-Of-Flavours
-Restaurant Website as part of Web Development Project 
+Restaurant Website as a part of Web Development Project.
